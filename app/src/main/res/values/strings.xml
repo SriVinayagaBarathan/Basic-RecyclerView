@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BasicRecyclerView</string>
+
+    <string-array name="desc">
+        <item>Google Classroom is a free web service developed by Google for schools that aims to simplify creating, distributing, and grading assignments.   </item>
+        <item>Google Docs is a word processor included as part of a free, web-based software office suite offered by Google within its Google Drive service.</item>
+        <item>Gmail is a free email service developed by Google. Users can access Gmail on the web and using third-party programs that synchronize email content through POP or IMAP protocols.</item>
+        <item>Google Pay is a digital wallet platform and online payment system developed by Google to power in-app and tap-to-pay purchases on mobile devices</item>
+        <item>Google Photos is a photo sharing and storage service developed by Google. It was announced in May 2015 and separated from Google+</item>
+        <item>Google Slides is a presentation program included as part of a free, web-based software office suite offered by Google within its Google Drive service.</item>
+        <item>YouTube is an American online video-sharing platform headquartered in San Bruno, California. Three former PayPal employees</item>
+
+
+    </string-array>
+</resources>
